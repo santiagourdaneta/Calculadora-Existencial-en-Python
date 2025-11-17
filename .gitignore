@@ -1,0 +1,17 @@
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Entornos Virtuales
+/venv
+/env
+.direnv
+
+# Logs y Archivos temporales
+*.log
+
+# Archivos de editor y del OS
+.DS_Store
+.vscode/
